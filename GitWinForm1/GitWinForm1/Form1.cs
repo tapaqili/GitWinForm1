@@ -12,6 +12,8 @@ namespace GitWinForm1
 {
     /*So I added this comment just for the sake of things*/
     
+    /*So after I created a branch this is what I did inorder to push it ot my desktop*/
+    
     public partial class Form1 : Form
     {
         public Form1()
