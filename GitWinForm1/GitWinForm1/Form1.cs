@@ -10,6 +10,8 @@ using System.Windows.Forms;
 
 namespace GitWinForm1
 {
+    /*So I added this comment just for the sake of things*/
+    
     public partial class Form1 : Form
     {
         public Form1()
